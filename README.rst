@@ -138,6 +138,7 @@ you dedicate time to learning, or so you can reach out for learning tips.
 * `Patrick Nichols`__ (who learned ``3l`` in the Fall of 2018)
 * `David Florness`__ (who learned ``3l`` in the Fall of 2018)
 * `Daichi Jameson`__ (who learned ``3l`` in the Fall of 2018)
+* `Jesus Nunez`__ (who learned ``3l`` in the Fall of 2018)
 
 __ http://inside.mines.edu/~jrosenth
 __ https://github.com/JoshH100
